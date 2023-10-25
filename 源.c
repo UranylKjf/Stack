@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-//Êı×éÊµÏÖÕ»
+//æ•°ç»„å®ç°æ ˆ
 #define Maxsize 10
 int top = -1;
 int arr[Maxsize];
@@ -40,7 +40,7 @@ int main() {
 	printf("empty?%d", isEmpty());
 }
 /*
-//Á´±íÊµÏÖÕ»
+//é“¾è¡¨å®ç°æ ˆ
 
 #include<stdio.h>
 #include<stdlib.h>
